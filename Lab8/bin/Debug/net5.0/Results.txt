@@ -1,0 +1,3 @@
+Results of the day
+Item sold: 2
+Money got: 40

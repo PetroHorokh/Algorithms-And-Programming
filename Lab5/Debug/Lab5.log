@@ -1,0 +1,8 @@
+﻿  BusCasa.cpp
+  Casa.cpp
+  Functions.cpp
+  PlaneCasa.cpp
+  main.cpp
+D:\Pete's\Studying\Labs\Lab5\main.cpp(5,17): warning C4101: 'Array': unreferenced local variable
+  Generating Code...
+  Lab5.vcxproj -> D:\Pete's\Studying\Labs\Lab5\Debug\Lab5.exe

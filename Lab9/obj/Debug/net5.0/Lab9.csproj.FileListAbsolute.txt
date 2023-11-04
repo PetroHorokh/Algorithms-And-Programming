@@ -1,0 +1,16 @@
+D:\Pete's\Studying\Labs\Lab9\bin\Debug\net5.0\Lab9.exe
+D:\Pete's\Studying\Labs\Lab9\bin\Debug\net5.0\Lab9.deps.json
+D:\Pete's\Studying\Labs\Lab9\bin\Debug\net5.0\Lab9.runtimeconfig.json
+D:\Pete's\Studying\Labs\Lab9\bin\Debug\net5.0\Lab9.runtimeconfig.dev.json
+D:\Pete's\Studying\Labs\Lab9\bin\Debug\net5.0\Lab9.dll
+D:\Pete's\Studying\Labs\Lab9\bin\Debug\net5.0\ref\Lab9.dll
+D:\Pete's\Studying\Labs\Lab9\bin\Debug\net5.0\Lab9.pdb
+D:\Pete's\Studying\Labs\Lab9\obj\Debug\net5.0\Lab9.csproj.AssemblyReference.cache
+D:\Pete's\Studying\Labs\Lab9\obj\Debug\net5.0\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pete's\Studying\Labs\Lab9\obj\Debug\net5.0\Lab9.AssemblyInfoInputs.cache
+D:\Pete's\Studying\Labs\Lab9\obj\Debug\net5.0\Lab9.AssemblyInfo.cs
+D:\Pete's\Studying\Labs\Lab9\obj\Debug\net5.0\Lab9.csproj.CoreCompileInputs.cache
+D:\Pete's\Studying\Labs\Lab9\obj\Debug\net5.0\Lab9.dll
+D:\Pete's\Studying\Labs\Lab9\obj\Debug\net5.0\ref\Lab9.dll
+D:\Pete's\Studying\Labs\Lab9\obj\Debug\net5.0\Lab9.pdb
+D:\Pete's\Studying\Labs\Lab9\obj\Debug\net5.0\Lab9.genruntimeconfig.cache
